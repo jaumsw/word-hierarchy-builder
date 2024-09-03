@@ -17,8 +17,8 @@ Para começar a usar o projeto, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/jaumsw/word-hierarchy.git
-   cd word-hierarchy
+   git clone (https://github.com/jaumsw/word-hierarchy-builder.git)
+   cd word-hierarchy-builder
    ```
 
 2. **Instale as dependências:**
