@@ -39,8 +39,8 @@ Após iniciar o servidor de desenvolvimento, você pode acessar o aplicativo no 
 
 ## 🌟 Principais Funcionalidades
 
-- **Adicionar Nó Filho:** Adicione um novo nó filho a qualquer nó existente na hierarquia.
-- **Adicionar Nó Irmão:** Adicione um novo nó irmão ao lado de qualquer nó existente.
+- **Adicionar Nó Filho(Botão Verde):** Adicione um novo nó filho a qualquer nó existente na hierarquia.
+- **Adicionar Nó Irmão(Botão Azul):** Adicione um novo nó irmão ao lado de qualquer nó existente.
 - **Remover Nó:** Remova qualquer nó da hierarquia.
 - **Editar Nome do Nó:** Edite o nome de qualquer nó na hierarquia.
 - **Fazer Download da  Hierarquia:** Salve a hierarquia atual em um arquivo JSON.
