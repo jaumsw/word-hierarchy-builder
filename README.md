@@ -8,7 +8,6 @@
 - Uso
 - [Principais Funcionalidades](#principais-funcionalidades)
 - [Estrutura do Projeto](#estrutura-do-projeto)
-- Licença
 
 ## 🛠️ Instalação
 
@@ -67,10 +66,6 @@ word-hierarchy/
 ├── README.md
 └── tsconfig.json
 ```
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ---
 
